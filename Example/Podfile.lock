@@ -1,0 +1,16 @@
+PODS:
+  - CTMediator (0.1.0)
+
+DEPENDENCIES:
+  - CTMediator (from `../`)
+
+EXTERNAL SOURCES:
+  CTMediator:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CTMediator: 2fccf1f55bcaf273ac56c5f6e2475056f7638e82
+
+PODFILE CHECKSUM: 8e797989a8ba282c3a8e8c7921b1f08ccb1d6933
+
+COCOAPODS: 1.0.0

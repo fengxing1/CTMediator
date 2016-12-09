@@ -1,0 +1,6 @@
+use_frameworks!
+target 'CTMediator_Tests' do
+  pod 'CTMediator', :path => '../'
+  
+  
+end
